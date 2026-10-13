@@ -1,36 +1,35 @@
- # 🛡️ Anaconda Protocol & Digital Infrastructure Dossier
-> **Forensic Mapping of the Military-Industrial-AI Pipeline**
+# 🛡️ Anaconda Protocol & Digital Infrastructure Dossier
+> **Forensic Mapping of the Military-Industrial-AI Pipeline, Infrastructure Laundering, and Big Tech Surveillance.**
 
-Arsip ini mendokumentasikan pencucian infrastruktur siber-militer (*infrastructure laundering*) 
-dari ekosistem intelijen hingga konsolidasi Big Tech global.
-
----
-
-### 📌 Top Forensics Findings (Pintu Masuk Utama)
-
-1. **Google x Wiz ($32B Acquisition)**  
-   *Pencucian arsitektur cloud security alumni Unit 81/8200 ke dalam Google Cloud.*  
-   👉 [Baca Analisis Lengkapnya di Repo Ecosystem](./Ecosystem/path-to-file.md)
-
-2. **Palo Alto Networks x CyberArk ($25B Consolidation)**  
-   *Konsolidasi pemegang kunci akses root global (PAM) di bawah payung alumni 8200.*  
-   👉 [Baca Analisis Lengkapnya](./Ecosystem/path-to-file.md)
-
-3. **Waze & Spatial Surveillance Infrastructure**  
-   *Prototip pelacakan spasial massal, segregasi rute jalanan (apartheid routing), dan keterikatan Project Nimbus.*  
-   👉 [Baca Analisis Lengkapnya](./Ecosystem/path-to-file.md)
-
-4. **SentinelOne Ecosystem Dependency**  
-   *Membongkar PR spin "non-8200" via pemetaan talenta R&D dan akuisisi.*  
-   👉 [Baca Analisis Lengkapnya](./Ecosystem/path-to-file.md)
-
-5. **Epistemic Blindness & Kanibalisme Algoritma**  
-   *Bagaimana LLM/AI komersial melakukan pemutihan label terhadap supply chain militer.*  
-   👉 [Baca Analisis Lengkapnya di Repo Kanibalisme](./Kanibalisme/path-to-file.md)
+Arsip investigasi terbuka dan OSINT yang membedah bagaimana teknologi yang diuji di zona konflik diinkubasi oleh unit intelijen militer, dicuci melalui narasi komersial (*infrastructure laundering*), dan dikonsolidasikan oleh raksasa Big Tech global.
 
 ---
 
-### 🗂️ Peta Navigasi Repositori
-* 📁 `Ecosystem` — Pemetaan entitas korporat, konsolidasi modal, dan akuisisi Big Tech.
-* 📁 `Kanibalisme Algoritma` — Analisis bias AI, epistemic blindness, dan pengaburan PR.
-* 📁 `Anaconda Protocol` — Dokumentasi utama kerangka kerja forensik siber-militer.
+### 📌 Pintu Masuk Temuan Utama (Direct Index)
+
+1. **Alumni Unit 8200 & Global Big Tech**  
+   *Pemetaan integrasi alumni unit siber militer ke dalam ekosistem cloud dan cybersecurity global.*  
+   👉 [Baca Wiki: Unit 8200 Alumni & Big Tech](https://github.com/BlackAlph4ndr01D/Ecosystem-Map-Military-AI-zionist-israel/wiki/Unit-8200-Alumni-Weaponized-Global-Big-Tech,-Cybersecurity,-and-Cloud-Infrastructure)
+
+2. **Anatomi Sistem Penargetan: Lavender**  
+   *Bedah forensik sistem penargetan berbasis AI dan mekanismenya dalam rantai komando militer.*  
+   👉 [Baca Wiki: Lavender](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Lavender)
+
+3. **Audit Protokol: Lavender Audit**  
+   *Analisis kritis dan audit terhadap struktur komputasi serta bias epistemik di balik sistem penargetan.*  
+   👉 [Baca Wiki: Lavender Audit](https://github.com/BlackAlph4ndr01D/xai-audit-protocol/wiki/Lavender-Audit.md)
+
+4. **Klasifikasi Unit Elit Militer**  
+   *Daftar dan pemetaan peran unit-unit khusus pertahanan siber dan intelijen.*  
+   👉 [Baca Wiki: Classified Units](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel-part.2/wiki/Classified-units)
+
+5. **Friendly Fire di Gaza (2023)**  
+   *Analisis kasus "Backfire" dan anomali operasional di lapangan.*  
+   👉 [Baca Wiki: Friendly Fire di Gaza](https://github.com/BlackAlph4ndr01D/Kanibalisme-Algoritma-Militer-AI-zionist-israel-/wiki/Friendly-Fire-di-Gaza-(2023))
+
+6. **RadioWatermelon — Closing Assessment**  
+   *Evaluasi penutup dan rekapitulasi temuan investigasi.*  
+   👉 [Baca Wiki: RadioWatermelon Closing Assessment](https://github.com/BlackAlph4ndr01D/X-Plan-Action/wiki/RadioWatermelon-%E2%80%94-Closing-Assessment)
+
+---
+*Dossier ini dikurasi secara independen untuk transparansi riset digital dan analisis rantai pasok teknologi militer.*
