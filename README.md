@@ -1,7 +1,7 @@
 # 🛡️ Anaconda Protocol & Digital Infrastructure Dossier
 > **Forensic Mapping of the Military-Industrial-AI Pipeline, Infrastructure Laundering, and Big Tech Surveillance.**
 
-Arsip investigasi terbuka dan OSINT yang membedah bagaimana teknologi yang diuji di zona konflik diinkubasi oleh unit intelijen militer, dicuci melalui narasi komersial (*infrastructure laundering*), dan dikonsolidasikan oleh raksasa Big Tech global.
+Arsip investigasi terbuka dan OSINT yang membedah bagaimana teknologi yang diuji di PALESTINA khususnya di Gaza Genosida dan Pencaplokan Wilayah Tepi Barat yang diinkubasi oleh unit intelijen militer, dicuci melalui narasi komersial (*infrastructure laundering*), dan dikonsolidasikan oleh raksasa Big Tech global.
 
 ---
 
