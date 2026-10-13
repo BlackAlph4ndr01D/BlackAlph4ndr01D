@@ -1,9 +1,4 @@
-  ## Hi there 👋
-
-<!--
-**BlackAlph4ndr01D/BlackAlph4ndr01D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 🛡️ Anaconda Protocol & Digital Infrastructure Dossier
+ # 🛡️ Anaconda Protocol & Digital Infrastructure Dossier
 > **Forensic Mapping of the Military-Industrial-AI Pipeline**
 
 Arsip ini mendokumentasikan pencucian infrastruktur siber-militer (*infrastructure laundering*) 
