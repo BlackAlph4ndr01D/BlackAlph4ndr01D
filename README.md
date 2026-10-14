@@ -1,35 +1,35 @@
 # 🛡️ Anaconda Protocol & Digital Infrastructure Dossier
 > **Forensic Mapping of the Military-Industrial-AI Pipeline, Infrastructure Laundering, and Big Tech Surveillance.**
 
-Arsip investigasi terbuka dan OSINT yang membedah bagaimana teknologi yang diuji di PALESTINA khususnya di Gaza Genosida dan Pencaplokan Wilayah Tepi Barat yang diinkubasi oleh unit intelijen militer, dicuci melalui narasi komersial (*infrastructure laundering*), dan dikonsolidasikan oleh raksasa Big Tech global.
+An independent open-source intelligence (OSINT) research dossier mapping how technologies tested on Palestinians in Gaza and the West Bank—as core instruments of military occupation  and ethnic cleansing—are incubated by military-intelligence units zionist israel, sanitized through commercial narratives (*infrastructure laundering*), and consolidated by global Big Tech who complicit with genocide and annexation.
 
 ---
 
-### 📌 Pintu Masuk Temuan Utama (Direct Index)
+### 📌 Core Findings & Index (Direct Links)
 
-1. **Alumni Unit 8200 & Global Big Tech**  
-   *Pemetaan integrasi alumni unit siber militer ke dalam ekosistem cloud dan cybersecurity global.*  
-   👉 [Baca Wiki: Unit 8200 Alumni & Big Tech](https://github.com/BlackAlph4ndr01D/Ecosystem-Map-Military-AI-zionist-israel/wiki/Unit-8200-Alumni-Weaponized-Global-Big-Tech,-Cybersecurity,-and-Cloud-Infrastructure)
+1. **Unit 8200 Alumni & Global Big Tech**  
+   *Mapping the integration of cyber-intelligence military alumni into global cloud and cybersecurity ecosystems.*  
+   👉 [Read Wiki: Unit 8200 Alumni & Big Tech](https://github.com/BlackAlph4ndr01D/Ecosystem-Map-Military-AI-zionist-israel/wiki/Unit-8200-Alumni-Weaponized-Global-Big-Tech,-Cybersecurity,-and-Cloud-Infrastructure)
 
-2. **Anatomi Sistem Penargetan: Lavender**  
-   *Bedah forensik sistem penargetan berbasis AI dan mekanismenya dalam rantai komando militer.*  
-   👉 [Baca Wiki: Lavender](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Lavender)
+2. **Anatomy of a Targeting System: Lavender**  
+   *Forensic breakdown of AI-driven targeting systems and their mechanics within military command chains in occupied territories.*  
+   👉 [Read Wiki: Lavender](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionist-israel/wiki/Lavender)
 
-3. **Audit Protokol: Lavender Audit**  
-   *Analisis kritis dan audit terhadap struktur komputasi serta bias epistemik di balik sistem penargetan.*  
-   👉 [Baca Wiki: Lavender Audit](https://github.com/BlackAlph4ndr01D/xai-audit-protocol/wiki/Lavender-Audit.md)
+3. **Audit Protocol: Lavender Audit**  
+   *Critical analysis and computational structure audit behind automated targeting mechanisms and epistemic blind spots.*  
+   👉 [Read Wiki: Lavender Audit](https://github.com/BlackAlph4ndr01D/xai-audit-protocol/wiki/Lavender-Audit.md)
 
-4. **Klasifikasi Unit Elit Militer**  
-   *Daftar dan pemetaan peran unit-unit khusus pertahanan siber dan intelijen.*  
-   👉 [Baca Wiki: Classified Units](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel-part.2/wiki/Classified-units)
+4. **Classified Military Units**  
+   *Catalog and structural mapping of specialized cyber-defense and intelligence units driving the occupation.*  
+   👉 [Read Wiki: Classified Units](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionist-israel-part.2/wiki/Classified-units)
 
-5. **Friendly Fire di Gaza (2023)**  
-   *Analisis kasus "Backfire" dan anomali operasional di lapangan.*  
-   👉 [Baca Wiki: Friendly Fire di Gaza](https://github.com/BlackAlph4ndr01D/Kanibalisme-Algoritma-Militer-AI-zionist-israel-/wiki/Friendly-Fire-di-Gaza-(2023))
+5. **Friendly Fire in Gaza (2023)**  
+   *Analysis of "Backfire" mechanics and operational anomalies in the field.*  
+   👉 [Read Wiki: Friendly Fire in Gaza](https://github.com/BlackAlph4ndr01D/Kanibalisme-Algoritma-Militer-AI-zionist-israel-/wiki/Friendly-Fire-di-Gaza-(2023))
 
 6. **RadioWatermelon — Closing Assessment**  
-   *Evaluasi penutup dan rekapitulasi temuan investigasi.*  
-   👉 [Baca Wiki: RadioWatermelon Closing Assessment](https://github.com/BlackAlph4ndr01D/X-Plan-Action/wiki/RadioWatermelon-%E2%80%94-Closing-Assessment)
+   *Concluding evaluation and comprehensive recap of the investigation findings.*  
+   👉 [Read Wiki: RadioWatermelon Closing Assessment](https://github.com/BlackAlph4ndr01D/X-Plan-Action/wiki/RadioWatermelon-%E2%80%94-Closing-Assessment)
 
 ---
-*Dossier ini dikurasi secara independen untuk transparansi riset digital dan analisis rantai pasok teknologi militer.*
+*This dossier is independently curated for digital research transparency and military technology supply chain analysis.*
