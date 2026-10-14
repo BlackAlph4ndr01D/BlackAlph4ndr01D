@@ -23,10 +23,13 @@ An independent open-source intelligence (OSINT) research dossier mapping how tec
    *Catalog and structural mapping of specialized cyber-defense and intelligence units driving the occupation.*  
    👉 [Read Wiki: Classified Units Military zionist israel](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel-part.2/wiki/Classified-units) 
 
-5.   **Data Bias & Algorithmic Suffocation**  
-  *Comprehensive forensic synthesis on how model drift, corrupted training data, and sensor bias choke automated targeting systems, triggering operational fratricide and systemic internal collapse.*  
-  👉 [Read Wiki: Senjata Makan Tuan (AI Failure in Gaza)](https://github.com/BlackAlph4ndr01D/Kanibalisme-Algoritma-Militer-AI-zionist-israel-/wiki/Senjata-Makan-Tuan:-Bagaimana-AI-Genosida-Tercekik-Bias-Data-dan-Membantai-IDF-di-Gaza)
-6. **RadioWatermelon — Closing Assessment**  
+5.  **Data Bias & Algorithmic Suffocation**  
+   
+      *Comprehensive forensic synthesis on how model drift, corrupted training data, and sensor bias choke automated targeting systems, triggering operational fratricide and systemic internal collapse.*
+    
+    👉 [Read Wiki: Senjata Makan Tuan (AI Failure in Gaza)](https://github.com/BlackAlph4ndr01D/Kanibalisme-Algoritma-Militer-AI-zionist-israel-/wiki/Senjata-Makan-Tuan:-Bagaimana-AI-Genosida-Tercekik-Bias-Data-dan-Membantai-IDF-di-Gaza)
+
+7. **RadioWatermelon — Closing Assessment**  
    *Concluding evaluation and comprehensive recap of the investigation findings.*  
    👉 [Read Wiki: RadioWatermelon Closing Assessment](https://github.com/BlackAlph4ndr01D/X-Plan-Action/wiki/RadioWatermelon-%E2%80%94-Closing-Assessment)
 
