@@ -13,7 +13,7 @@ An independent open-source intelligence (OSINT) research dossier mapping how tec
 
 2. **Anatomy of a Targeting System: Lavender**  
    *Forensic breakdown of AI-driven targeting systems and their mechanics within military command chains in occupied territories.*  
-   👉 [Read Wiki: Lavender](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionist-israel/wiki/Lavender)
+   👉 [Read Wiki: Lavender](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Lavender-2.0)
 
 3. **Audit Protocol: Lavender Audit**  
    *Critical analysis and computational structure audit behind automated targeting mechanisms and epistemic blind spots.*  
