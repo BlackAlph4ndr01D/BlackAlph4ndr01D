@@ -21,7 +21,7 @@ An independent open-source intelligence (OSINT) research dossier mapping how tec
 
 4. **Classified Military Units**  
    *Catalog and structural mapping of specialized cyber-defense and intelligence units driving the occupation.*  
-   👉 [Read Wiki: Classified Units](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionist-israel-part.2/wiki/Classified-units)
+   👉 [Read Wiki: Classified Units Military zionist israel](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel-part.2/wiki/Classified-units) 
 
 5. **Friendly Fire in Gaza (2023)**  
    *Analysis of "Backfire" mechanics and operational anomalies in the field.*  
